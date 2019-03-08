@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pet">Pet</string>
+    <string name="movie">Movie</string>
+    <string name="tname_1">Holiday 2017</string>
+    <string name="tname_2">Fall 2017</string>
+    <string name="tname_3">Summer 2017</string>
+    <string name="tname_4">Winter 2017</string>
+    <string name="tname_5">Spring 2018</string>
+    <string name="tname_6">Summer 2018</string>
+    <string name="dest_1">Islands</string>
+    <string name="dest_2">Rome</string>
+    <string name="dest_3">London</string>
+    <string name="dest_4">Paris</string>
+    <string name="dest_5">San Francisco</string>
+    <string name="dest_6">Brighton</string>
+    <string name="trip_type">Trip Type</string>
+    <string name="city_break">City Break</string>
+    <string name="sea_side">Sea Side</string>
+    <string name="mountains">Mountains</string>
+    <string name="start_date">Start Date</string>
+    <string name="end_date">End Date</string>
+    <string name="date_format">DD/MM/YYYY</string>
+    <string name="save">Save</string>
+    <string name="rating">Rating</string>
+    <string name="price_eur">Price (eur)</string>
+    <string name="trip_name">Trip Name</string>
+    <string name="destination">Destination</string>
+</resources>
